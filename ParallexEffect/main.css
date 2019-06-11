@@ -24,6 +24,9 @@ h2{
 div:nth-child(1){
   height: 700px;
   background-image: url(img/02.jpg);  /*parallex effect*/
+  /* Parallex Effect using Css
+  background-attachment: fixed;
+  */
   background-size: cover;
 }
 
@@ -34,6 +37,9 @@ div:nth-child(2){
 div:nth-child(3){
   height: 500px;
   background-image: url(img/03.jpg); /*parallex effect*/
+  /* Parallex Effect using Css
+  background-attachment: fixed;
+  */
   background-size: cover;
 }
 
