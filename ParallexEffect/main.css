@@ -11,7 +11,7 @@ div{
   font-weight: bold;
   font-family:  monospace;
   width: 100%;
-  height: 100vh;
+  height: 50vh;
 }
 
 h2{
@@ -37,9 +37,8 @@ div:nth-child(2){
 div:nth-child(3){
   height: 500px;
   background-image: url(img/03.jpg); /*parallex effect*/
-  /* Parallex Effect using Css
+  /* Parallex Effect using Css*/
   background-attachment: fixed;
-  */
   background-size: cover;
 }
 
